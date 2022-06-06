@@ -19,7 +19,7 @@ let textSize = [];
 let defaultTextSize = 260;
 
 let posters = [];
-let posterNum = 10;
+let posterNum = 20;
 let imageNum = 0;
 let posterRandomNumber = [];
 let posterText;
